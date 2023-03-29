@@ -59,6 +59,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 print(f"Received {data!r}")
 
 ## OUTPUT:
+success
 
 ## RESULT:
 The program is executed successfully
