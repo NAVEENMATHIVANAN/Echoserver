@@ -20,9 +20,11 @@ Implementation using Python code
 Testing the server and client 
 
 ## PROGRAM:
-server.py
+
 ```
-```import socket
+server.py
+
+import socket
 
 
 HOST = "127.0.0.1"  # Standard loopback interface address (localhost)
@@ -42,8 +44,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
             
 client.py
-```
-```mport socket
+
+mport socket
 
 
 HOST = "127.0.0.1"  # The server's hostname or IP address
@@ -58,8 +60,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 print(f"Received {data!r}")
 
+```
+
 ## OUTPUT:
-success
+!output[(s1.png)]
+!output[(s2.png)]
 
 ## RESULT:
 The program is executed successfully
