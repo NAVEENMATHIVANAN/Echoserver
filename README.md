@@ -62,9 +62,12 @@ print(f"Received {data!r}")
 
 ```
 
-## OUTPUT:
-output[(s1.png)]
-output[(s2.png)]
+# OUTPUT
+ 
+![s2](https://user-images.githubusercontent.com/119394582/228598891-79f0ec1f-9f3b-40ac-9be5-814a64795494.png)
+![s1](https://user-images.githubusercontent.com/119394582/228598963-a65eb888-4ab0-4947-94ce-1327cb7ec3e2.png)
+
+
 
 ## RESULT:
 The program is executed successfully
