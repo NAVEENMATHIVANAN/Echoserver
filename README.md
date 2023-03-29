@@ -63,8 +63,8 @@ print(f"Received {data!r}")
 ```
 
 ## OUTPUT:
-!output[(s1.png)]
-!output[(s2.png)]
+output[(s1.png)]
+output[(s2.png)]
 
 ## RESULT:
 The program is executed successfully
